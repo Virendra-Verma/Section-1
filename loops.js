@@ -8,7 +8,7 @@ for(let i=10; i>0; i-=2){
 
 
 
-prime number is prime or not
+
 let m=34;
 let prime = true;
 for(let i=2; i<m; i++){
