@@ -31,7 +31,7 @@ const names = ['Virendra Verma','Yash Vardhan Mishra','Akash kumar','Vaibhav Sri
 const result2=names.map((n)=>{return n.split(" ")[0]});
 console.log(result2);
 
-
+ 
 //Question: 4
 
 
@@ -52,4 +52,5 @@ for (let i = l; i <= h; i++) {
         console.log(i);
     }
 }
+
 
